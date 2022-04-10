@@ -5,7 +5,7 @@ After over one decade of experience in the Software Development Life Cycle – S
 
 As part of my experience, I’ve worked in different roles such as Software Developer, Tester, Business and System Analyst, Product Owner and Digital Transformation Consultant.
 
-Currently, I became Data Scientist taking advantage of my experience.
+Currently, I became Data Scientist taking advantage of my experience
 
 ## Find me on:
 <div id="badges" >
