@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader_v2.png)](https://braydoncoyer.dev)
+[![SamirHinojosa's GitHub Banner](./assets/GitHubHeader_v2.png)](https://samirhinojosa.com)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there!, I'm Samir HINOJOSA
 📊 Former Business Analyst and Scrum Master<br>
@@ -6,6 +6,7 @@
 🎯 Future Machine Learning Engineer and Python Developer<br>
 
 After over one decade of experience in the <em>Software Development Life Cycle – SDLC and Business Process Improvement</em>, applied in several industries such as <em>Oil and Gas, Telecommunications, Education, etc.</em><br>
+
 So, I can say my skills include:
 <ul>
   <li>Analytical thinking</li>
