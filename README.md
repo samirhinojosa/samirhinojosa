@@ -15,8 +15,8 @@ So, I can say my skills include:
 </ul> 
 
 ## 📝 Latest Content
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- SAMIRHINOJOSA:START -->
+<!-- SAMIRHINOJOSA:END -->
 
 ## 📫 How to reach me:
 <div id="badges" >
