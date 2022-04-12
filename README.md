@@ -1,13 +1,20 @@
 [![Braydon's GitHub Banner](./assets/GitHubHeader_v2.png)](https://braydoncoyer.dev)
 
-## Hey there 👋, I'm Samir HINOJOSA
-After over one decade of experience in the Software Development Life Cycle – SDLC and Business Process Improvement, I can say my skills include analytical thinking, creative problem solving, software developing, among others, which I’ve applied in several industries such as Oil and Gas, Telecommunications, Education, etc.
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Samir HINOJOSA
+<ul style="list-style-type:none; padding-left: 0px;">
+  <li>📊 Former Business Analyst and Scrum Master</li>
+  <li>🤖 Currently, Data Scientist / Data Enthusiast</li>
+  <li>🎯 Future Machine Learning Engineer and Python Developer</li>
+</ul>
+After over one decade of experience in the Software Development Life Cycle – SDLC and Business Process Improvement, applied in several industries such as Oil and Gas, Telecommunications, Education, etc., I can say my skills include:
+<ul>
+  <li>Analytical thinking</li>
+  <li>Creative problem solving</li>
+  <li>Software developing</li>
+  <li>Projects management</li>
+</ul> 
 
-As part of my experience, I’ve worked in different roles such as Software Developer, Tester, Business and System Analyst, Product Owner and Digital Transformation Consultant.
-
-Currently, I became Data Scientist taking advantage of my experience
-
-## Find me on:
+## 📫 How to reach me:
 <div id="badges" >
   <a href="https://www.linkedin.com/in/samirhinojosa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,5 +32,4 @@ Currently, I became Data Scientist taking advantage of my experience
     <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Instagram Badge" />
   </a>
 </div>
-
 
