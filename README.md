@@ -1,18 +1,21 @@
 [![Braydon's GitHub Banner](./assets/GitHubHeader_v2.png)](https://braydoncoyer.dev)
 
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Samir HINOJOSA
-<ul style="list-style-type:none; padding-left: 0px;">
-  <li>📊 Former Business Analyst and Scrum Master</li>
-  <li>🤖 Currently, Data Scientist / Data Enthusiast</li>
-  <li>🎯 Future Machine Learning Engineer and Python Developer</li>
-</ul>
-After over one decade of experience in the Software Development Life Cycle – SDLC and Business Process Improvement, applied in several industries such as Oil and Gas, Telecommunications, Education, etc., I can say my skills include:
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there!, I'm Samir HINOJOSA
+📊 Former Business Analyst and Scrum Master<br>
+🤖 Currently, Data Scientist / Data Enthusiast<br>
+🎯 Future Machine Learning Engineer and Python Developer<br>
+
+After over one decade of experience in the <em>Software Development Life Cycle – SDLC and Business Process Improvement</em>, applied in several industries such as <em>Oil and Gas, Telecommunications, Education, etc.</em>, I can say my skills include:
 <ul>
   <li>Analytical thinking</li>
   <li>Creative problem solving</li>
   <li>Software developing</li>
   <li>Projects management</li>
 </ul> 
+
+## 📝 Latest Content
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me:
 <div id="badges" >
