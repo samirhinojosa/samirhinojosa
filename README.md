@@ -16,6 +16,11 @@ So, I can say my skills include:
 
 ## 📝 Latest Content
 <!-- SAMIRHINOJOSA:START -->
+- [Using Materialize and Airbyte with MySQL and Redpanda/Kafka](https://devdojo.com/bobbyiliev/using-materialize-and-airbyte-with-mysql-and-redpandakafka)
+- [How to manage your Materialize migrations with Laravel Zero?](https://devdojo.com/bobbyiliev/how-to-manage-your-materialize-migrations-with-laravel-zero)
+- [Blue-green deployments with Materialize](https://devdojo.com/bobbyiliev/blue-green-deployments-with-materialize)
+- [How to use &#39;IF&#39; in &#39;SELECT&#39; SQL statements?](https://devdojo.com/bobbyiliev/how-to-use-if-in-select-sql-statements)
+- [How to use Laravel WebSockets 🛰](https://devdojo.com/bobbyiliev/how-to-use-laravel-websockets)
 <!-- SAMIRHINOJOSA:END -->
 
 ## 📫 How to reach me:
