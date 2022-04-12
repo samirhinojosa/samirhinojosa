@@ -16,11 +16,11 @@ So, I can say my skills include:
 
 ## 📝 Latest Content
 <!-- SAMIRHINOJOSA:START -->
-- [Using Materialize and Airbyte with MySQL and Redpanda/Kafka](https://devdojo.com/bobbyiliev/using-materialize-and-airbyte-with-mysql-and-redpandakafka)
-- [How to manage your Materialize migrations with Laravel Zero?](https://devdojo.com/bobbyiliev/how-to-manage-your-materialize-migrations-with-laravel-zero)
-- [Blue-green deployments with Materialize](https://devdojo.com/bobbyiliev/blue-green-deployments-with-materialize)
-- [How to use &#39;IF&#39; in &#39;SELECT&#39; SQL statements?](https://devdojo.com/bobbyiliev/how-to-use-if-in-select-sql-statements)
-- [How to use Laravel WebSockets 🛰](https://devdojo.com/bobbyiliev/how-to-use-laravel-websockets)
+- [Set Up a Django project with Docker in Visual Studio Code](https://www.samirhinojosa.com/django-docker-visual-studio-code/)
+- [5 WordPress Tips to Server and Web Hosting Optimizations](https://www.samirhinojosa.com/wordpress-tips-to-server-and-web-hosting-optimizations/)
+- [12 WordPress Tips to Themes and Plugins Optimizations](https://www.samirhinojosa.com/wordpress-tips-to-themes-and-plugins-optimizations/)
+- [17 WordPress Tips to Page Size and Content Optimizations](https://www.samirhinojosa.com/wordpress-tips-to-page-size-and-content-optimizations/)
+- [Speed Up WordPress and Boost Performance. 34 WordPress Optimization Tips](https://www.samirhinojosa.com/wordpress-performance-speed-optimization/)
 <!-- SAMIRHINOJOSA:END -->
 
 ## 📫 How to reach me:
