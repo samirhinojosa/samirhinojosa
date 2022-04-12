@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "SAMIRHINOJOSA"
-          feed_list: "https://devdojo.com/feed/bobbyiliev"
+          feed_list: "https://www.samirhinojosa.com/feed/"
