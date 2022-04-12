@@ -14,8 +14,8 @@ After over one decade of experience in the <em>Software Development Life Cycle �
 </ul> 
 
 ## 📝 Latest Content
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-WORKFLOW:START -->
+<!-- BLOG-POST-WORKFLOW:END -->
 
 ## 📫 How to reach me:
 <div id="badges" >
