@@ -11,5 +11,5 @@ on:
       steps:
         - uses: actions/checkout@v2
         - uses: gautamkrishnar/blog-post-workflow@master
-            with:
-            feed_list: "https://www.samirhinojosa.com/blog/feed/"
+          with:
+            feed_list: "https://www.samirhinojosa.com/feed/"
