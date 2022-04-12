@@ -5,7 +5,8 @@
 🤖 Currently, Data Scientist / Data Enthusiast<br>
 🎯 Future Machine Learning Engineer and Python Developer<br>
 
-After over one decade of experience in the <em>Software Development Life Cycle – SDLC and Business Process Improvement</em>, applied in several industries such as <em>Oil and Gas, Telecommunications, Education, etc.</em>, I can say my skills include:
+After over one decade of experience in the <em>Software Development Life Cycle – SDLC and Business Process Improvement</em>, applied in several industries such as <em>Oil and Gas, Telecommunications, Education, etc.</em><br>
+So, I can say my skills include:
 <ul>
   <li>Analytical thinking</li>
   <li>Creative problem solving</li>
@@ -14,8 +15,8 @@ After over one decade of experience in the <em>Software Development Life Cycle �
 </ul> 
 
 ## 📝 Latest Content
-<!-- BLOG-POST-WORKFLOW:START -->
-<!-- BLOG-POST-WORKFLOW:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me:
 <div id="badges" >
