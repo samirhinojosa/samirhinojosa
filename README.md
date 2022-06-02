@@ -1,6 +1,6 @@
 [![SamirHinojosa's GitHub Banner](./assets/GitHubHeader_v2.png)](https://samirhinojosa.com)
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there!, I'm Samir HINOJOSA
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there!, I'm Samir HINOJOSA 
 📊 Former Business Analyst and Scrum Master<br>
 🤖 Currently, Data Scientist / Data Enthusiast<br>
 🎯 Future Machine Learning Engineer and Python Developer<br> 
