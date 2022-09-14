@@ -17,11 +17,11 @@ So, I can say my skills include:
 
 ## 📝 Latest Content
 <!-- SAMIRHINOJOSA:START -->
+- [AWS EC2 &amp; S3 for Data Science with Anaconda, JupyterLab &amp; GitHub](https://www.samirhinojosa.com/aws-from-scratch-for-data-science/)
+- [How to hide sensitive data in Django](https://www.samirhinojosa.com/hiding-sensitive-data-in-django/)
+- [A single git repository for multiple projects](https://www.samirhinojosa.com/single-git-repository-for-multiple-projects/)
 - [Set Up a Django project with Docker in Visual Studio Code](https://www.samirhinojosa.com/django-docker-visual-studio-code/)
 - [5 WordPress Tips to Server and Web Hosting Optimizations](https://www.samirhinojosa.com/wordpress-tips-to-server-and-web-hosting-optimizations/)
-- [12 WordPress Tips to Themes and Plugins Optimizations](https://www.samirhinojosa.com/wordpress-tips-to-themes-and-plugins-optimizations/)
-- [17 WordPress Tips to Page Size and Content Optimizations](https://www.samirhinojosa.com/wordpress-tips-to-page-size-and-content-optimizations/)
-- [Speed Up WordPress and Boost Performance. 34 WordPress Optimization Tips](https://www.samirhinojosa.com/wordpress-performance-speed-optimization/)
 <!-- SAMIRHINOJOSA:END -->
 
 ## 📫 How to reach me:
